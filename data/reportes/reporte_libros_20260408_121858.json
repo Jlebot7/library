@@ -1,0 +1,32 @@
+[
+    {
+        "categoria": "Ciencia Ficcion",
+        "libros": [
+            {
+                "titulo": "1984",
+                "autor": "George Orwell",
+                "estado": "Prestado a Andrew Garfield"
+            }
+        ]
+    },
+    {
+        "categoria": "Fantasia",
+        "libros": [
+            {
+                "titulo": "El Hobbit",
+                "autor": "J.R.R Tolkien",
+                "estado": "Disponible"
+            }
+        ]
+    },
+    {
+        "categoria": "Novela",
+        "libros": [
+            {
+                "titulo": "Buscando A Alaska",
+                "autor": "John Green",
+                "estado": "Disponible"
+            }
+        ]
+    }
+]

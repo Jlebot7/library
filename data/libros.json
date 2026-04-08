@@ -1,0 +1,26 @@
+[
+    {
+        "Nombre": "1984",
+        "Autor": "George Orwell",
+        "Genero": "Ciencia Ficcion",
+        "Year": 1949,
+        "Estado": "Prestado",
+        "Prestado a": "Andrew Garfield"
+    },
+    {
+        "Nombre": "El Hobbit",
+        "Autor": "J.R.R Tolkien",
+        "Genero": "Fantasia",
+        "Year": 1937,
+        "Estado": "Disponible",
+        "Prestado a": null
+    },
+    {
+        "Nombre": "Buscando A Alaska",
+        "Autor": "John Green",
+        "Genero": "Novela",
+        "Year": 2005,
+        "Estado": "Disponible",
+        "Prestado a": null
+    }
+]
